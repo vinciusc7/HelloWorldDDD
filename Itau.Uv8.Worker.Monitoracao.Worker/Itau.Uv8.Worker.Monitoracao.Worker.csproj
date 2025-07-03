@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-Itau.Uv8.Worker.Monitoracao.Worker-bbecd05a-2041-4a32-a2ba-4bb56590b629</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Itau.Uv8.Worker.Monitoracao.Services\Itau.Uv8.Worker.Monitoracao.Services.csproj" />
+  </ItemGroup>
+</Project>

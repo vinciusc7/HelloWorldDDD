@@ -1,0 +1,11 @@
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Domain\bin\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Domain.deps.json
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Domain\bin\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Domain.dll
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Domain\bin\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Domain.pdb
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Domain\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Domain\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Domain.AssemblyInfoInputs.cache
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Domain\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Domain.AssemblyInfo.cs
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Domain\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Domain\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Domain.dll
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Domain\obj\Debug\net8.0\refint\Itau.Uv8.Worker.Monitoracao.Domain.dll
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Domain\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Domain.pdb
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Domain\obj\Debug\net8.0\ref\Itau.Uv8.Worker.Monitoracao.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\bin\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Services.deps.json
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\bin\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Services.dll
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\bin\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Services.pdb
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\bin\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Domain.dll
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\bin\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Infrastructure.dll
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\bin\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Domain.pdb
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\bin\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Infrastructure.pdb
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Services.csproj.AssemblyReference.cache
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Services.AssemblyInfoInputs.cache
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Services.AssemblyInfo.cs
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Services.csproj.CoreCompileInputs.cache
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\obj\Debug\net8.0\Itau.Uv8.553B9A77.Up2Date
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Services.dll
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\obj\Debug\net8.0\refint\Itau.Uv8.Worker.Monitoracao.Services.dll
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\obj\Debug\net8.0\Itau.Uv8.Worker.Monitoracao.Services.pdb
+C:\Users\vinci\source\repos\Hello\Itau.Uv8.Worker.Monitoracao.Services\obj\Debug\net8.0\ref\Itau.Uv8.Worker.Monitoracao.Services.dll

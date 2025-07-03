@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Itau.Uv8.Worker.Monitoracao.Services/1.0.0": {
+        "dependencies": {
+          "Itau.Uv8.Worker.Monitoracao.Domain": "1.0.0",
+          "Itau.Uv8.Worker.Monitoracao.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Itau.Uv8.Worker.Monitoracao.Services.dll": {}
+        }
+      },
+      "Itau.Uv8.Worker.Monitoracao.Domain/1.0.0": {
+        "runtime": {
+          "Itau.Uv8.Worker.Monitoracao.Domain.dll": {}
+        }
+      },
+      "Itau.Uv8.Worker.Monitoracao.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Itau.Uv8.Worker.Monitoracao.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Itau.Uv8.Worker.Monitoracao.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Itau.Uv8.Worker.Monitoracao.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Itau.Uv8.Worker.Monitoracao.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Itau.Uv8.Worker.Monitoracao.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
