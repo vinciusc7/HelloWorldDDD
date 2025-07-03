@@ -1,29 +1,23 @@
-📘 README
-Hello World mais complexo que você já viu 😄
-Este projeto demonstra um Hello World implementado com boas práticas de arquitetura moderna em .NET:
+# HELLO WORLD MAIS COMPLEXO QUE VOCÊ JÁ VIU 😄
 
-✅ DDD (Domain-Driven Design)
-✅ Princípios SOLID
-✅ Injeção de Dependência
-✅ Containerização com Docker
+Este projeto demonstra um **Hello World** implementado com boas práticas de arquitetura moderna em **.NET**.
 
-Tudo orquestrado de ponta a ponta, desde o Domain até a execução no Docker.
+---
 
-🚀 Tecnologias Utilizadas
-.NET 8
+## 🚀 Tecnologias Utilizadas
 
-Docker
+- **.NET 8**
+- **Docker**
+- Arquitetura em camadas (**Domain**, **Infrastructure**, **Services**, **Worker**)
+- Injeção de dependências com `IServiceCollection`
 
-Arquitetura em camadas (Domain, Infrastructure, Services, Worker)
+---
 
-Injeção de dependências com IServiceCollection
+## ⚙️ Como Executar
 
-⚙️ Como executar
-1️⃣ Build da imagem Docker
+1️⃣ **Build da imagem Docker**
 
-bash
-Copiar
-Editar
+```bash
 docker build -t uv8-monitoracao-worker .
 2️⃣ Executar o container
 
@@ -33,6 +27,5 @@ Editar
 docker run --rm uv8-monitoracao-worker
 Você verá a mensagem formatada no console.
 
-💡 Sobre o projeto
+💡 Sobre o Projeto
 Mesmo sendo um simples Hello World, este exemplo serve como base para aplicações reais que sigam padrões de qualidade, separação de responsabilidades e preparação para produção com Docker.
-
