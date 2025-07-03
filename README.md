@@ -23,16 +23,12 @@ Tudo orquestrado de ponta a ponta, desde o **Domain** até a execução no **Doc
 ## ⚙️ Como executar
 
 1️⃣ **Build da imagem Docker**
-
-```bash
 docker build -t uv8-monitoracao-worker .
-2️⃣ Executar o container
 
-bash
-Copiar
-Editar
+2️⃣ **Executar o container**
 docker run --rm uv8-monitoracao-worker
+
 Você verá a mensagem formatada no console.
 
-💡 Sobre o projeto
+💡 **Sobre o projeto**
 Mesmo sendo um simples Hello World, este exemplo serve como base para aplicações reais que sigam padrões de qualidade, separação de responsabilidades e preparação para produção com Docker.
